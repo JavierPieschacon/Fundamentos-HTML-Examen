@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="211.584mm"
+   height="50.543308mm"
+   viewBox="0 0 211.584 50.543308"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.1 r15371"
@@ -25,17 +25,22 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="2572.6609"
-     inkscape:cy="445.71429"
-     inkscape:document-units="mm"
+     inkscape:zoom="0.7"
+     inkscape:cx="279.03748"
+     inkscape:cy="-29.068297"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1280"
      inkscape:window-height="961"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -51,30 +56,43 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2.0954446,-0.51601058)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:4.51131868px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.11278298"
-       x="117.03963"
-       y="70.108124"
+       style="font-style:normal;font-weight:normal;font-size:3.77366495px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.09434164"
+       x="48.34819"
+       y="26.143021"
        id="text12"
-       transform="matrix(0.84602869,0.0089106,-0.99335034,1.1715308,0,0)"><tspan
+       transform="matrix(0.79766234,0.00945089,-0.93656181,1.2425667,0,0)"><tspan
          sodipodi:role="line"
          id="tspan10"
-         x="117.03963"
-         y="70.108124"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.6543293px;line-height:9.25;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;stroke-width:0.11278298">Javier Pieschacon</tspan></text>
+         x="48.34819"
+         y="26.143021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.11359215px;line-height:9.25;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;stroke-width:0.09434164">Javier Eustasio Pieschacon</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:6.49650717px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.16241269"
-       x="51.568802"
-       y="50.512108"
+       style="font-style:normal;font-weight:normal;font-size:5.43425179px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1358563"
+       x="26.251476"
+       y="19.036209"
        id="text12-0"
-       transform="matrix(0.59205169,0,-0.02087722,1.6890417,0,0)"><tspan
+       transform="matrix(0.55820488,0,-0.0196837,1.7914569,0,0)"><tspan
          sodipodi:role="line"
          id="tspan10-1"
-         x="51.568802"
-         y="50.512108"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.18323517px;line-height:9.25;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;stroke-width:0.16241269">Javier Pieschacon</tspan></text>
+         x="26.251476"
+         y="19.036209"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.08440971px;line-height:9.25;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;stroke-width:0.1358563">Javier Eustasio Pieschacon</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.04816675px;line-height:2.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.10120419"
+       x="61.373669"
+       y="-24.112528"
+       id="text12-0-9"
+       transform="matrix(0.74577383,0,1.2970453,-1.3408891,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan10-1-7"
+         x="61.373669"
+         y="-24.112528"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.43120193px;line-height:9.25;font-family:SimSun-ExtB;-inkscape-font-specification:SimSun-ExtB;stroke-width:0.10120419">Javier Eustasio Pieschacon</tspan></text>
   </g>
 </svg>
